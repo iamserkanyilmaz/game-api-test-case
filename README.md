@@ -14,7 +14,7 @@ You can configure redis in the .env file.
 
 ## Installation
 
-You can run the code below to start the project setup.
+You can run the code below to install the project setup.
 ```sh
 composer install
 ```
